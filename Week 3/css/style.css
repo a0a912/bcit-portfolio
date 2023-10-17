@@ -1,0 +1,40 @@
+body {background-color: grey;}
+h1  { font-family: Georgia, serif;
+  text-align: center;
+font-size: 30px;
+
+color: whitesmoke;
+font-weight: 700;
+text-decoration: underline rgb(68, 68, 68);
+}
+p    {color: lightgreen; font-family: Georgia, serif;
+    font-size: 20px;}
+ul {color:lightsalmon; font-family: Arial; font-size: 20px;}
+a:link {
+    background-color: yellow;
+  }
+  
+  a:visited {
+    background-color: lightpink;
+  }
+  
+  a:hover {
+    background-color: lightgreen;
+    color: darkblue;
+  }
+  
+  a:active {
+    background-color: hotpink;
+  } 
+  
+  a { font-size: 40px;
+
+
+  }
+  .jobs {
+    border: 3px dashed red;
+    padding: 1.5rem;
+    background-color: white;
+    color: black;
+
+  }
